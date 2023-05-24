@@ -1,0 +1,12 @@
+baslik{
+    display: block;
+    margin-bottom: 24px;
+}
+dortluk{
+    display: block
+    margin-bottom: 16px;
+}
+sair{
+    display: block
+    font-style: italic;
+}
